@@ -22,7 +22,7 @@ Escolhendo a segunda opção, o programa se despede e finaliza.
 
 ### Opção: 1- Sim
 
-Escolhendo a primeira opção, será imprimido na tela a explicação de como funciona o jogo.
+Escolhendo a primeira opção, será imprimido na tela a explicação de como funciona o jogo:
 
 ##
 
