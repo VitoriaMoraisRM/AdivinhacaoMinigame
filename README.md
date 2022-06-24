@@ -36,7 +36,7 @@ Escolhendo a primeira opção, será imprimido na tela a explicação de como fu
 
 **Você será o vencedor!**
 
-**Prontinho +nome+ , já escolhi! Adivinhe..."**
+**Prontinho +nome+, já escolhi! Adivinhe..."**
 
 ##
 
