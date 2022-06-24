@@ -14,13 +14,13 @@ Caso o usuário escolha uma opção inexistente, ele pedirá infinitamente uma o
 
 ***
 
-### Opção: 1- Não
+### Opção: 2- Não
 
 Escolhendo a primeira opção, o programa se despede e finaliza.
 
 
 
-### Opção: 2- Sim
+### Opção: 1- Sim
 
 Escolhendo a segunda opção, será imprimido na tela a explicação de como funciona o jogo.
 
