@@ -1,6 +1,6 @@
-### Minigame de adivinhação 
+# Minigame de adivinhação 
 
-***
+
 
 Inicialmente o programa solicitará o nome do usuário e perguntará se ele deseja jogar.
 
