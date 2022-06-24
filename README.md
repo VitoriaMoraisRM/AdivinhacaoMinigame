@@ -36,7 +36,7 @@ Escolhendo a primeira opção, será imprimido na tela a explicação de como fu
 
 **Você será o vencedor!**
 
-**Prontinho "nome do usuário" , já escolhi! Adivinhe..."**
+**Prontinho +nome+ , já escolhi! Adivinhe..."**
 
 ##
 
@@ -44,7 +44,7 @@ Escolhendo a primeira opção, será imprimido na tela a explicação de como fu
 Ao errar, o programa avisará e solicitará uma nova tentativa. O usuário acertando, será imprimido na tela:
 
 
-**"Parabéns "nome do usuário" ! Você acertou!"**
+**"Parabéns +nome+ ! Você acertou!"**
 
 ***
 
