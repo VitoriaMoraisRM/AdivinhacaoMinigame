@@ -8,7 +8,7 @@ public class Minigame {
 		System.out.println("OBAH!");
 		System.out.println("O jogo é assim...");
 		System.out.println("Eu vou escolher um número aleatório de 0 a 10.");
-		System.out.println("Você terá que adivinhar que número eu escolhi. Se acertar...");
+		System.out.println("Você terá que adivinhar o número que eu escolhi. Se acertar...");
 		System.out.println("Você será o vencedor!");
 	}
 
