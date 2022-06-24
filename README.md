@@ -32,7 +32,7 @@ Escolhendo a segunda opção, será imprimido na tela a explicação de como fun
 
 **Eu vou escolher um número aleatório de 0 a 10.**
 
-**Você terá que adivinhar que número eu escolhi. Se acertar...**
+**Você terá que adivinhar o número que eu escolhi. Se acertar...**
 
 **Você será o vencedor!**
 
